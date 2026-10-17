@@ -1,0 +1,11 @@
+# Normalize text files to LF in the repo and working tree
+* text=auto eol=lf
+
+# Raw analyzer frames: never touch line endings
+*.astm -text
+
+# Binary files
+*.png binary
+*.jpg binary
+*.ico binary
+*.pdf binary
