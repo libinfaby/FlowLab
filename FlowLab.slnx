@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/FlowLab.Api/FlowLab.Api.csproj" />
+    <Project Path="src/FlowLab.Shared/FlowLab.Shared.csproj" />
+  </Folder>
+</Solution>
